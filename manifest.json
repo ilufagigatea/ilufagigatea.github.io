@@ -1,6 +1,6 @@
 {
-    "name": "ilufa",
-    "short_name": "ilufa",
+    "name": "Minimal",
+    "short_name": "Minimal",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
